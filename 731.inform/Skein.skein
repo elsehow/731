@@ -1,0 +1,564 @@
+<?xml version="1.0"?>
+<Skein rootNode="node-0xd61a3f0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Zoom</generator>
+  <activeNode nodeId="node-0xd61a3f0" />
+  <item nodeId="node-0xd61a3f0">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+731
+An Interactive Fiction
+Release 1 / Serial number 151217 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+
+canyon crest
+you are on the crest of a canyon. it is a bright sunny day.
+
+the path goes east and west.
+
+0 &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">NO</temporary>
+    <children>
+      <child nodeId="node-0xd6c4980" />
+      <child nodeId="node-0xd6dcea0" />
+      <child nodeId="node-0x9b49f10" />
+    </children>
+  </item>
+  <item nodeId="node-0x9b49f10">
+    <command xml:space="preserve">go west</command>
+    <result xml:space="preserve">
+back of the canyon
+In this garden grow plants that eat insects and plants that eat birds. It is bordered by a bone fence, and the pavements are made of a giant&apos;s kneecaps.
+
+In the center of the garden is Baba Yaga&apos;s hut, which walks on chicken legs. Currently the hut is squatting on the ground.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="2">YES</temporary>
+  </item>
+  <item nodeId="node-0xd6dcea0">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+back of the canyon
+In this garden grow plants that eat insects and plants that eat birds. It is bordered by a bone fence, and the pavements are made of a giant&apos;s kneecaps.
+
+In the center of the garden is Baba Yaga&apos;s hut, which walks on chicken legs. Currently the hut is squatting on the ground.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="1">YES</temporary>
+  </item>
+  <item nodeId="node-0xd6c4980">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+trailhead
+there are some rocks.
+
+the trail goes east and west. a path leads south
+
+0 &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+    <children>
+      <child nodeId="node-0xd6c49d0" />
+      <child nodeId="node-0xd6b8670" />
+      <child nodeId="node-0x9bb4bf0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9bb4bf0">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+back of the canyon
+you can see the city from here.... a peaceful sunny day with the light yellow through dust
+
+the path goes east and west.
+
+0 &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+    <children>
+      <child nodeId="node-0xd6ec8e0" />
+    </children>
+  </item>
+  <item nodeId="node-0xd6ec8e0">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+trailhead
+there are some rocks.
+
+the trail goes east and west. a path leads south
+
+0 &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+    <children>
+      <child nodeId="node-0x9bbb9d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9bbb9d0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+glass houses
+some glass houses... you can go inside one.
+
+0 &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+    <children>
+      <child nodeId="node-0x9bbba20" />
+    </children>
+  </item>
+  <item nodeId="node-0x9bbba20">
+    <command xml:space="preserve">inside</command>
+    <result xml:space="preserve">
+glass house
+you are inside the glass house.
+
+there is a door south of here.
+
+0 &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+    <children>
+      <child nodeId="node-0x9b3c410" />
+    </children>
+  </item>
+  <item nodeId="node-0x9b3c410">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">canyon crest
+you are on the crest of a canyon. it is a bright sunny day.
+
+the path goes east and west.
+
+1 &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+    <children>
+      <child nodeId="node-0xd632560" />
+    </children>
+  </item>
+  <item nodeId="node-0xd632560">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+trailhead
+there are some rocks.
+
+the trail goes east and west. a path leads south
+
+1 &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+    <children>
+      <child nodeId="node-0xd625b70" />
+    </children>
+  </item>
+  <item nodeId="node-0xd625b70">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+back of the canyon
+you can see the city from here.... a peaceful sunny day with the light yellow through dust
+
+the path goes east and west.
+
+1 &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+    <children>
+      <child nodeId="node-0xd625bc0" />
+    </children>
+  </item>
+  <item nodeId="node-0xd625bc0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+1 &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+    <children>
+      <child nodeId="node-0xd6d5f40" />
+    </children>
+  </item>
+  <item nodeId="node-0xd6d5f40">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+canyon crest
+you are on the crest of a canyon. it is a bright sunny day.
+
+the path goes east and west.
+
+1 &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+    <children>
+      <child nodeId="node-0xd6c40f0" />
+    </children>
+  </item>
+  <item nodeId="node-0xd6c40f0">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+back of the canyon
+you can see the city from here.... a peaceful sunny day with the light yellow through dust
+
+the path goes east and west.
+
+1 &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+    <children>
+      <child nodeId="node-0xd6c8780" />
+    </children>
+  </item>
+  <item nodeId="node-0xd6c8780">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+trailhead
+there are some rocks.
+
+the trail goes east and west. a path leads south
+
+1 &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+    <children>
+      <child nodeId="node-0xd6c87d0" />
+    </children>
+  </item>
+  <item nodeId="node-0xd6c87d0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+glass houses
+some glass houses... you can go inside one.
+
+1 &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+    <children>
+      <child nodeId="node-0xd6d0160" />
+    </children>
+  </item>
+  <item nodeId="node-0xd6d0160">
+    <command xml:space="preserve">inside</command>
+    <result xml:space="preserve">
+glass house
+you are inside the glass house.
+
+there is a door south of here.
+
+1 &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="50">YES</temporary>
+    <children>
+      <child nodeId="node-0x9b1c490" />
+    </children>
+  </item>
+  <item nodeId="node-0x9b1c490">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">canyon crest
+you are on the crest of a canyon. it is a bright sunny day.
+
+the path goes east and west.
+
+2 &gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="49">YES</temporary>
+  </item>
+  <item nodeId="node-0xd6b8670">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+glass houses
+some glass houses... you can go inside one.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0x10225420" />
+      <child nodeId="node-0xd6b86c0" />
+    </children>
+  </item>
+  <item nodeId="node-0xd6b86c0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0x9ba4670" />
+    </children>
+  </item>
+  <item nodeId="node-0x9ba4670">
+    <command xml:space="preserve">inside</command>
+    <result xml:space="preserve">
+glass house
+you are inside the glass house.
+
+there is a door south of here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0xd6a7d10" />
+    </children>
+  </item>
+  <item nodeId="node-0xd6a7d10">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+canyon crest
+you are on the crest of a canyon. it is a bright sunny day.
+
+the path goes east and west.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0xd6a7d60" />
+    </children>
+  </item>
+  <item nodeId="node-0xd6a7d60">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0x1e52b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x1e52b0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0x1e5300" />
+    </children>
+  </item>
+  <item nodeId="node-0x1e5300">
+    <command xml:space="preserve">est</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0xd682300" />
+    </children>
+  </item>
+  <item nodeId="node-0xd682300">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+back of the canyon
+you can see the city from here.... a peaceful sunny day with the light yellow through dust
+
+the path goes east and west.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0xd6bef10" />
+    </children>
+  </item>
+  <item nodeId="node-0xd6bef10">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+trailhead
+there are some rocks.
+
+the trail goes east and west. a path leads south
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0xd6bef60" />
+    </children>
+  </item>
+  <item nodeId="node-0xd6bef60">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+glass houses
+some glass houses...
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0x9b9e210" />
+    </children>
+  </item>
+  <item nodeId="node-0x9b9e210">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0xd62c810" />
+    </children>
+  </item>
+  <item nodeId="node-0xd62c810">
+    <command xml:space="preserve">inside</command>
+    <result xml:space="preserve">
+glass house
+you are inside the glass house.
+
+there is a door south of here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="25">YES</temporary>
+    <children>
+      <child nodeId="node-0xd62c860" />
+    </children>
+  </item>
+  <item nodeId="node-0xd62c860">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">
+canyon crest
+you are on the crest of a canyon. it is a bright sunny day.
+
+the path goes east and west.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="24">YES</temporary>
+  </item>
+  <item nodeId="node-0x10225420">
+    <command xml:space="preserve">inside</command>
+    <result xml:space="preserve">
+glass house
+you are inside the glass house.
+
+there is a door south of here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="35">YES</temporary>
+    <children>
+      <child nodeId="node-0xd6a60a0" />
+      <child nodeId="node-0x10225470" />
+    </children>
+  </item>
+  <item nodeId="node-0x10225470">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+back of the canyon
+you can see the city from here.... a peaceful sunny day with the light yellow through dust
+
+the path goes east and west.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="31">YES</temporary>
+    <children>
+      <child nodeId="node-0x9bbe190" />
+    </children>
+  </item>
+  <item nodeId="node-0x9bbe190">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+trailhead
+there are some rocks.
+
+the trail goes east and west. a path leads south
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="31">YES</temporary>
+    <children>
+      <child nodeId="node-0x9bd03a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x9bd03a0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">canyon crest
+you are on the crest of a canyon. it is a bright sunny day.
+
+the path goes east and west.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="30">YES</temporary>
+  </item>
+  <item nodeId="node-0xd6a60a0">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">canyon crest
+you are on the crest of a canyon. it is a bright sunny day.
+
+the path goes east and west.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="34">YES</temporary>
+    <children>
+      <child nodeId="node-0x9ba0180" />
+    </children>
+  </item>
+  <item nodeId="node-0x9ba0180">
+    <command xml:space="preserve">north</command>
+    <result xml:space="preserve">
+glass house
+you are inside the glass house.
+
+there is a door south of here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="10">YES</temporary>
+  </item>
+  <item nodeId="node-0xd6c49d0">
+    <command xml:space="preserve">downhill</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="5">YES</temporary>
+  </item>
+</Skein>
