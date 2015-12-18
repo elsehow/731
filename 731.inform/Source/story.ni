@@ -1,5 +1,9 @@
 "731"
 
+Include Vorple by Juhana Leinonen.
+release along with the "Vorple" interpreter.
+
+
 the stage is a number that varies.
 
 when play begins: now the command prompt is "[stage] >".
@@ -35,6 +39,5 @@ there is a door south of here."
 
 after going to the canyon crest from the glass house:
 	increment the stage;
-	move the player to the canyon crest.
-
-release along with an interpreter.
+	move the player to the canyon crest;
+	execute JavaScript command "window.location='QmbB5uvRPM5VCgWMiAu4J9p4Zi6EDopiVVtCmq48eWP35J'".

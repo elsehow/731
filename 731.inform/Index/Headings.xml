@@ -3,7 +3,7 @@
 <plist version="1.0"><dict>
     <key>Application Version</key><string>6L38</string>
     <key>0</key><dict>
-        <key>Filename</key><string>/Users/ffff/Projects/inform-playing/731.inform/Source/story.ni</string>
+        <key>Filename</key><string>/Users/ffff/Projects/731/731.inform/Source/story.ni</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>"731"</string>
         <key>Level</key><integer>0</integer>
@@ -910,6 +910,104 @@
         <key>Line</key><integer>256</integer>
         <key>Title</key><string>Section 3 - Further pronouns</string>
         <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>130</key><dict>
+        <key>Filename</key><string>/Users/ffff/Library/Inform/Extensions/juhana leinonen/vorple.i7x</string>
+        <key>Line</key><integer>1</integer>
+        <key>Title</key><string>Version 2/140430 of Vorple (for Z-Machine only) by Juhana Leinonen begins here</string>
+        <key>Level</key><integer>0</integer>
+        <key>Indentation</key><integer>0</integer>
+    </dict>
+    <key>131</key><dict>
+        <key>Filename</key><string>/Users/ffff/Library/Inform/Extensions/juhana leinonen/vorple.i7x</string>
+        <key>Line</key><integer>7</integer>
+        <key>Title</key><string>Chapter 1 - JavaScript evaluation</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>132</key><dict>
+        <key>Filename</key><string>/Users/ffff/Library/Inform/Extensions/juhana leinonen/vorple.i7x</string>
+        <key>Line</key><integer>9</integer>
+        <key>Title</key><string>Section 1 - Eval stream (I6)</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>133</key><dict>
+        <key>Filename</key><string>/Users/ffff/Library/Inform/Extensions/juhana leinonen/vorple.i7x</string>
+        <key>Line</key><integer>74</integer>
+        <key>Title</key><string>Section 2 - Vorple support detection</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>134</key><dict>
+        <key>Filename</key><string>/Users/ffff/Library/Inform/Extensions/juhana leinonen/vorple.i7x</string>
+        <key>Line</key><integer>96</integer>
+        <key>Title</key><string>Chapter 2 - Placing elements and displaying content</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>135</key><dict>
+        <key>Filename</key><string>/Users/ffff/Library/Inform/Extensions/juhana leinonen/vorple.i7x</string>
+        <key>Line</key><integer>139</integer>
+        <key>Title</key><string>Chapter 3 - Unique identifiers</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>136</key><dict>
+        <key>Filename</key><string>/Users/ffff/Library/Inform/Extensions/juhana leinonen/vorple.i7x</string>
+        <key>Line</key><integer>149</integer>
+        <key>Title</key><string>Chapter 4 - Turn types</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>137</key><dict>
+        <key>Filename</key><string>/Users/ffff/Library/Inform/Extensions/juhana leinonen/vorple.i7x</string>
+        <key>Line</key><integer>181</integer>
+        <key>Title</key><string>Chapter 5 - Escaping</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>138</key><dict>
+        <key>Filename</key><string>/Users/ffff/Library/Inform/Extensions/juhana leinonen/vorple.i7x</string>
+        <key>Line</key><integer>199</integer>
+        <key>Title</key><string>Chapter 6 - Interpreter communication</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>139</key><dict>
+        <key>Filename</key><string>/Users/ffff/Library/Inform/Extensions/juhana leinonen/vorple.i7x</string>
+        <key>Line</key><integer>201</integer>
+        <key>Title</key><string>Section 1 - Queueing parser commands</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>140</key><dict>
+        <key>Filename</key><string>/Users/ffff/Library/Inform/Extensions/juhana leinonen/vorple.i7x</string>
+        <key>Line</key><integer>222</integer>
+        <key>Title</key><string>Section 2 - Vorple startup rulebook</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>2</integer>
+    </dict>
+    <key>141</key><dict>
+        <key>Filename</key><string>/Users/ffff/Library/Inform/Extensions/juhana leinonen/vorple.i7x</string>
+        <key>Line</key><integer>258</integer>
+        <key>Title</key><string>Chapter 7 - Element positions</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>142</key><dict>
+        <key>Filename</key><string>/Users/ffff/Library/Inform/Extensions/juhana leinonen/vorple.i7x</string>
+        <key>Line</key><integer>264</integer>
+        <key>Title</key><string>Chapter 8 - Restart fix</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>143</key><dict>
+        <key>Filename</key><string>/Users/ffff/Library/Inform/Extensions/juhana leinonen/vorple.i7x</string>
+        <key>Line</key><integer>277</integer>
+        <key>Title</key><string>Chapter 9 - Credits</string>
+        <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
 </dict></plist>
